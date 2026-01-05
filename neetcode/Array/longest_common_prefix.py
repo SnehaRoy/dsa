@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 def longest_common_prefix(lists):
     prefix = lists[0]
 
